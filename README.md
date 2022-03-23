@@ -1,6 +1,6 @@
 # TinyM StealthBurner [![Status - Work In Progress](https://img.shields.io/badge/Status-Work_In_Progress-ffee00)](https://)
 
-![](images/cad_img.png)
+![](https://github.com/masgar/TinyM_StealthBurner/blob/main/Image/cad_img.png)
 This project is based on [Tiny-M](https://github.com/gsl12/Tiny-M "Tiny-M") (190^3 variant) + [Smol StealthBurner](https://github.com/Maverick-3D/Smol_Stealth_Burner "Smol StealthBurner") modified for Phaetus Drgonfly BMO hotend.
 
 The Smol StealthBurner is designed to use a MGN rail in front of X axis, so the following parts have been remixed:
